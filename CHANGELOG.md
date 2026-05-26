@@ -1,3 +1,14 @@
+## v0.1.3 (2026-05-26)
+
+## Changes
+
+- feat(cli): add 'ren org list' and 'ren org switch' for post-init org switching
+
+
+Published to npm: https://www.npmjs.com/package/@renai-labs/cli/v/0.1.3
+
+---
+
 ## v0.1.2 (2026-05-26)
 
 ## Changes
