@@ -1,3 +1,14 @@
+## v0.1.5 (2026-05-31)
+
+## Changes
+
+- feat(api/cli): expose session create + OpenCode URL to CLI
+
+
+Published to npm: https://www.npmjs.com/package/@renai-labs/cli/v/0.1.5
+
+---
+
 ## v0.1.4 (2026-05-27)
 
 ## Changes
