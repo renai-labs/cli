@@ -1,3 +1,14 @@
+## v0.1.6 (2026-06-01)
+
+## Changes
+
+- chore(cli): fix prettier formatting
+
+
+Published to npm: https://www.npmjs.com/package/@renai-labs/cli/v/0.1.6
+
+---
+
 ## v0.1.5 (2026-05-31)
 
 ## Changes
