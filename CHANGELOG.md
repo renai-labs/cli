@@ -1,3 +1,17 @@
+## v0.1.7 (2026-06-01)
+
+## Changes
+
+- rft(github): infer the org's single installation in routes
+- feat(slack): expose install/channel management via SDK + CLI
+- rft(slack): install flow should return json response
+- feat(cli): generate ren github commands from new SDK ops
+
+
+Published to npm: https://www.npmjs.com/package/@renai-labs/cli/v/0.1.7
+
+---
+
 ## v0.1.6 (2026-06-01)
 
 ## Changes
