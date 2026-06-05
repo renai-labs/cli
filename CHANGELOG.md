@@ -1,3 +1,17 @@
+## v0.1.8 (2026-06-05)
+
+## Changes
+
+- refactor(google): address review — simplify provider, drop dead surface
+- feat(google): per-user Google Workspace OAuth provider (BYO app)
+- feat(app): author local (stdio) MCPs in create/edit UI
+- fix(cli): make shell completion return results for subcommands
+
+
+Published to npm: https://www.npmjs.com/package/@renai-labs/cli/v/0.1.8
+
+---
+
 ## v0.1.7 (2026-06-01)
 
 ## Changes
