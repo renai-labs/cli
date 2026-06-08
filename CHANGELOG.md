@@ -1,3 +1,24 @@
+## v0.1.9 (2026-06-08)
+
+## Changes
+
+- refactor(email): flat /api/emails CRUD, rename project-email → email
+- feat: default exclude deprecated resources at query schema level
+- fix: run prettier after generation to eliminate formatting churn
+- fix(cli): correct agent version body format in README and onboarding docs
+- fix(skill): remove yaml dependency from frontmatter parsing
+- chore(cli): re-sync integrations guide bundle to integrations.md
+- feat(docs): integrations guide as MCP resource + ren docs integrations
+- refactor(canvas): adapt flat topology spec into blueprint on the client
+- refactor(cli): derive hand-written commands from a single spec
+- feat(cli): ren docs — offline command tree + data-model guide
+- refactor(email): domain-side viewer list + html-to-text package
+
+
+Published to npm: https://www.npmjs.com/package/@renai-labs/cli/v/0.1.9
+
+---
+
 ## v0.1.8 (2026-06-05)
 
 ## Changes
