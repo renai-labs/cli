@@ -1,3 +1,15 @@
+## v0.1.10 (2026-06-11)
+
+## Changes
+
+- feat(telegram): settings UI, account link/unlink, revoke cleanup, command re-sync
+- refactor(telegram): drop the agent create_topic action
+
+
+Published to npm: https://www.npmjs.com/package/@renai-labs/cli/v/0.1.10
+
+---
+
 ## v0.1.9 (2026-06-08)
 
 ## Changes
