@@ -1,3 +1,15 @@
+## v0.1.12 (2026-06-15)
+
+## Changes
+
+- fix(sandbox): make attached-environment package installs work
+- feat(sandbox): bootstrap-once runtime setup + sandbox recreate kill switch
+
+
+Published to npm: https://www.npmjs.com/package/@renai-labs/cli/v/0.1.12
+
+---
+
 ## v0.1.11 (2026-06-11)
 
 ## Changes
