@@ -1,3 +1,25 @@
+## v0.1.14 (2026-07-05)
+
+## Changes
+
+- fix(release): exclude compiled binaries from cli npm tarball
+- feat(cli): resolve tui plugin version from npm latest instead of hardcoding
+- ci(release): add tui-plugin to release flow; pin cli plugin ref to 0.0.1
+- fix(cli): make ren upgrade channel-aware (binary vs npm)
+- feat(cli): one-command onboarding via curl | bash
+- fix(tui): pin opencode to 1.17.9 and disable auto-update
+- refactor(client-core): use global tui.json for plugin config
+- fix(tui): attach session command
+- feat(cli): add ren tui launcher, attach, and install commands
+- refactor(client-core): move auth, client factory, and config out of the CLI
+- refactor(client-core): extract the generic invokeOperation dispatcher
+- refactor(client-core): generate the single OPS manifest; CLI binds to it
+
+
+Published to npm: https://www.npmjs.com/package/@renai-labs/cli/v/0.1.14
+
+---
+
 ## v0.1.13 (2026-07-05)
 
 ## Changes
