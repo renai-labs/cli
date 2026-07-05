@@ -1,3 +1,18 @@
+## v0.1.13 (2026-07-05)
+
+## Changes
+
+- fix(triggers): blast-radius fixes for nullable trigger agent
+- refactor: simplify channel→meta routing per review (REN-711)
+- feat(api): session execution traces endpoint for meta agent self-observability (REN-662)
+- feat(api): agent-driven chat replies, Slack DMs → private Ren, drop interactivity (REN-707)
+- ft(skill): add humanizer skill and enforce its rules in Vale
+
+
+Published to npm: https://www.npmjs.com/package/@renai-labs/cli/v/0.1.13
+
+---
+
 ## v0.1.12 (2026-06-15)
 
 ## Changes
