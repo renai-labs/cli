@@ -1,3 +1,14 @@
+## v0.1.15 (2026-07-15)
+
+## Changes
+
+- feat(cli): wake the sandbox before attaching the TUI to a Ren session (REN-694)
+
+
+Published to npm: https://www.npmjs.com/package/@renai-labs/cli/v/0.1.15
+
+---
+
 ## v0.1.14 (2026-07-05)
 
 ## Changes
