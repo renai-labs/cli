@@ -1,3 +1,16 @@
+## v0.1.16 (2026-07-22)
+
+## Changes
+
+- feat(api): add public invitation preview endpoint
+- feat(cli): add ren blueprints validate command
+- fix(skill): parse SKILL.md frontmatter with real YAML
+
+
+Published to npm: https://www.npmjs.com/package/@renai-labs/cli/v/0.1.16
+
+---
+
 ## v0.1.15 (2026-07-15)
 
 ## Changes
