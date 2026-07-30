@@ -1,3 +1,15 @@
+## v0.2.0 (2026-07-30)
+
+## Changes
+
+- feat(cli): add 'ren org create' mirroring the web new-organization flow
+- feat(cli): poll the session job in the CLI and TUI plugin
+
+
+Published to npm: https://www.npmjs.com/package/@renai-labs/cli/v/0.2.0
+
+---
+
 ## v0.1.16 (2026-07-22)
 
 ## Changes
