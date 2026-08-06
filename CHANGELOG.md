@@ -1,3 +1,17 @@
+## v0.2.1 (2026-08-06)
+
+## Changes
+
+- fix(api,cli): audit follow-ups — pod-member 400 mapping, migration owner backfill, explicit false predicate, transactional archive sweep, stale copy
+- chore(api): renumber migration to 0035 + migrate new project binding routes to role guards
+- feat(clients): visibility filters replace ?scope=user across app, CLI, client-core, tui-plugin
+- docs: follow the project_agent mode rename in the architect skill and CLI docs
+
+
+Published to npm: https://www.npmjs.com/package/@renai-labs/cli/v/0.2.1
+
+---
+
 ## v0.2.0 (2026-07-30)
 
 ## Changes
