@@ -1,3 +1,20 @@
+## v0.2.2 (2026-08-07)
+
+## Changes
+
+- feat: opencode-exact SKILL.md parsing + skill-folder permissions that mirror load access
+- fix: E2E-found fixes — opencode menu contract, skill-read rotation, CLI positionals/arrays, resource-check removal
+- fix: strict review pass — token kind-scoped revoke, mirror completeness marker, discriminated version.data, tag parity, monitoring captures
+- fix: review hardening pass + comment sweep
+- feat(cli): add 'skills pull' wrapping the one-shape data op (PR 4)
+- feat: one shared SKILL.md validator (@ren/skill-md) imported by API and CLI (PR 4)
+- chore(gen): regenerate SDK/MCP/CLI + adapt first-party consumers (chunk 13)
+
+
+Published to npm: https://www.npmjs.com/package/@renai-labs/cli/v/0.2.2
+
+---
+
 ## v0.2.1 (2026-08-06)
 
 ## Changes
