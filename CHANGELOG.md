@@ -1,3 +1,31 @@
+## v0.2.3 (2026-08-11)
+
+## Changes
+
+- fix(api): correct the vault-attachment prose in the meta prompt and data model
+- feat(api,app): three-tier vaults replacing pod-vault attachment
+- fix(api,cli,plugin): artifact defects found by the e2e pass
+- fix(artifact): harden artifact workflows
+- fix(cli): report the sandbox requirement before the template flag
+- refactor(api,cli): move the artifact starter into the ren-artifact skill
+- fix(cli): point rclone at the artifacts credential profile
+- feat(cli): add artifacts scaffold and sync
+- fix(api): require published to deprecate, and drop added comments
+- fix(cli): curate the command surface and stop dropping route descriptions
+- fix(api,cli,site): update surfaces the cronTrigger rename broke; refresh module maps
+- chore: strip code comments added in this pass
+- chore: regenerate SDK/OpenAPI/MCP for merged agent+skill reads, reconcile consumers
+- chore: remove code comments
+- feat(cli): require --vault-id on credentials connect
+- feat(cli): ren credentials create (flags per kind) + connect (merged sign-in)
+- style: strip code comments across the PR
+- feat(api,cli,mcp): make the direct file write usable everywhere — declare the raw requestBody, --content @file/@- in the CLI, content param on the MCP tools
+
+
+Published to npm: https://www.npmjs.com/package/@renai-labs/cli/v/0.2.3
+
+---
+
 ## v0.2.2 (2026-08-07)
 
 ## Changes
