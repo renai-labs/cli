@@ -1,3 +1,14 @@
+## v0.2.5 (2026-08-12)
+
+## Changes
+
+- fix(cli): stop publishing an unresolvable workspace dependency
+
+
+Published to npm: https://www.npmjs.com/package/@renai-labs/cli/v/0.2.5
+
+---
+
 ## v0.2.4 (2026-08-12)
 
 ## Changes
