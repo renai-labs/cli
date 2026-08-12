@@ -1,3 +1,20 @@
+## v0.2.4 (2026-08-12)
+
+## Changes
+
+- fix(cli,registry,site): make every documented ren command real
+- fix(cli): leave the version to the release workflow
+- fix(cli,site): drop the dead --yes flag and unshadow the npm install
+- feat(cli)!: drop the TUI surface and ship npm-only
+- fix(cli): bind the negatable flags and reject malformed arguments
+- fix(registry,api): correct meta-skill facts and cut prose padding
+- feat(registry,api): one skill for the meta agent
+
+
+Published to npm: https://www.npmjs.com/package/@renai-labs/cli/v/0.2.4
+
+---
+
 ## v0.2.3 (2026-08-11)
 
 ## Changes
