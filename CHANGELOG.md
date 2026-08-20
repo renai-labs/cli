@@ -1,3 +1,17 @@
+## v0.2.6 (2026-08-20)
+
+## Changes
+
+- feat: point shipped artifacts at useren.ai
+- refactor(ren): keep the meta agent blind to agents entirely
+- feat(cli): teach the project-level levers and make failures readable
+- feat(ren): make projects the primary config boundary
+
+
+Published to npm: https://www.npmjs.com/package/@renai-labs/cli/v/0.2.6
+
+---
+
 ## v0.2.5 (2026-08-12)
 
 ## Changes
