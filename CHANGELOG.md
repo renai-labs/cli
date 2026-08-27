@@ -1,3 +1,14 @@
+## v0.2.8 (2026-08-27)
+
+## Changes
+
+- fix(cli): run under node, and register inference commands as documented
+
+
+Published to npm: https://www.npmjs.com/package/@renai-labs/cli/v/0.2.8
+
+---
+
 ## v0.2.7 (2026-08-27)
 
 ## Changes
