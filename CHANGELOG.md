@@ -1,3 +1,23 @@
+## v0.2.7 (2026-08-27)
+
+## Changes
+
+- chore: strip code comments from the subscription routing changes
+- feat(inference): provider-neutral subscription routing
+- feat(model): ModelSelection object, fold internal/claude-* aliases
+- refactor(claude): simplify subscription pool code after review
+- feat(opencode): use internal subscription pools locally
+- feat(claude): add organization subscription pools
+- fix(api,app,cli): gate credits before the sandbox and block broke teams
+- refactor(api): make budget sync the single owner of cron billing pause
+- refactor: drop code comments from the out-of-credits change
+- feat(api,app,cli): surface out-of-credits everywhere and pause crons
+
+
+Published to npm: https://www.npmjs.com/package/@renai-labs/cli/v/0.2.7
+
+---
+
 ## v0.2.6 (2026-08-20)
 
 ## Changes
