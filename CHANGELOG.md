@@ -1,3 +1,20 @@
+## v0.2.9 (2026-08-31)
+
+## Changes
+
+- test(cli): prove connect claude leaks no oauth material
+- fix(cli): declare the --json flag the connect commands already read
+- style: drop comments from the Anthropic subscription work
+- fix(api,litellm): apply one observation per attempt, not per lease
+- feat(cli,app): connect Claude subscriptions over Ren-owned OAuth
+- feat(api): task doctrine in the meta prompt and data model
+- chore(api): task migration and regenerated artifacts
+
+
+Published to npm: https://www.npmjs.com/package/@renai-labs/cli/v/0.2.9
+
+---
+
 ## v0.2.8 (2026-08-27)
 
 ## Changes
