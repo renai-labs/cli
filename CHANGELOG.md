@@ -1,3 +1,16 @@
+## v0.2.10 (2026-09-01)
+
+## Changes
+
+- feat(cli,api): contribute a Codex seat to the global pool, and prove Anthropic is untouched
+- style: format the CLI command tree
+- feat(cli): add ren connect codex
+
+
+Published to npm: https://www.npmjs.com/package/@renai-labs/cli/v/0.2.10
+
+---
+
 ## v0.2.9 (2026-08-31)
 
 ## Changes
