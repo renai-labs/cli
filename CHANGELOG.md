@@ -1,3 +1,15 @@
+## v0.2.11 (2026-09-01)
+
+## Changes
+
+- feat(app,cli): link Codex device-code setting, drop connect consent prompts
+- feat(gateway): pooled Claude/Codex inference, app UI, and marketing site
+
+
+Published to npm: https://www.npmjs.com/package/@renai-labs/cli/v/0.2.11
+
+---
+
 ## v0.2.10 (2026-09-01)
 
 ## Changes
