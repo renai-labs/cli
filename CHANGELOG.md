@@ -1,3 +1,14 @@
+## v0.2.13 (2026-09-02)
+
+## Changes
+
+- fix(harness): write the opencode key literally, offer the env swap after
+
+
+Published to npm: https://www.npmjs.com/package/@renai-labs/cli/v/0.2.13
+
+---
+
 ## v0.2.12 (2026-09-02)
 
 ## Changes
