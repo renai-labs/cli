@@ -1,3 +1,15 @@
+## v0.2.12 (2026-09-02)
+
+## Changes
+
+- feat(inference): per-harness setup docs and an in-app prompt to reach them
+- feat(cli): configure local coding harnesses for Ren inference
+
+
+Published to npm: https://www.npmjs.com/package/@renai-labs/cli/v/0.2.12
+
+---
+
 ## v0.2.11 (2026-09-01)
 
 ## Changes
