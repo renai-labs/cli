@@ -1,3 +1,15 @@
+## v0.2.15 (2026-09-03)
+
+## Changes
+
+- refactor: drop the Codex integration's code comments
+- feat(harness,cli): point Codex at Ren's model catalogue
+
+
+Published to npm: https://www.npmjs.com/package/@renai-labs/cli/v/0.2.15
+
+---
+
 ## v0.2.14 (2026-09-02)
 
 ## Changes
