@@ -1,3 +1,21 @@
+## v0.2.18 (2026-09-10)
+
+## Changes
+
+- style(inference): remove added code comments
+- fix(inference): preserve setup options and use canonical harness models
+- fix(cli): apply a plan built from a different catalogue, and say so
+- refactor: derive the Codex catalogue, check the setup revision, fix the snapshot
+- fix(api): break the last load-time cycle into the registry
+- refactor(inference): rename @ren/gateway and drop the dead product layer
+- feat(inference): reorganize inference around providers, services and routes
+- feat(opencode-plugin): hydrate blueprint seeds
+
+
+Published to npm: https://www.npmjs.com/package/@renai-labs/cli/v/0.2.18
+
+---
+
 ## v0.2.17 (2026-09-05)
 
 ## Changes
