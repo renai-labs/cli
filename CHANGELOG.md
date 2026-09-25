@@ -1,3 +1,14 @@
+## v0.2.19 (2026-09-25)
+
+## Changes
+
+- feat(tokenmaxer): configure a harness from one setup script
+
+
+Published to npm: https://www.npmjs.com/package/@renai-labs/cli/v/0.2.19
+
+---
+
 ## v0.2.18 (2026-09-10)
 
 ## Changes
