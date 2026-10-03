@@ -1,3 +1,13 @@
+## v0.2.21 (2026-10-03)
+
+## Changes
+
+
+
+Published to npm: https://www.npmjs.com/package/@renai-labs/cli/v/0.2.21
+
+---
+
 ## v0.2.20 (2026-10-03)
 
 ## Changes
