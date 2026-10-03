@@ -1,3 +1,18 @@
+## v0.2.20 (2026-10-03)
+
+## Changes
+
+- docs: follow in_review tasks, task activity paging, merge completion, Sonnet 5.5, and refresh retries
+- feat(api): task event pages, sandbox actor attribution tests, regenerate clients
+- docs: follow chat search, task numbers, strict task updates, and OAuth reconnect
+- chore(cli): regenerate the data model doc
+- fix(litellm): let inference setup run when the org is over budget (REN-1219)
+
+
+Published to npm: https://www.npmjs.com/package/@renai-labs/cli/v/0.2.20
+
+---
+
 ## v0.2.19 (2026-09-25)
 
 ## Changes
