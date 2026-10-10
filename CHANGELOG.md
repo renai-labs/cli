@@ -1,3 +1,14 @@
+## v0.2.22 (2026-10-10)
+
+## Changes
+
+- docs: follow one-call task handoff, cross-space assign, and list scope (REN-1299)
+
+
+Published to npm: https://www.npmjs.com/package/@renai-labs/cli/v/0.2.22
+
+---
+
 ## v0.2.21 (2026-10-03)
 
 ## Changes
