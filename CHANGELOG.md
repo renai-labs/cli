@@ -1,3 +1,14 @@
+## v0.2.23 (2026-10-10)
+
+## Changes
+
+- fix(cli): register inference global connect codex
+
+
+Published to npm: https://www.npmjs.com/package/@renai-labs/cli/v/0.2.23
+
+---
+
 ## v0.2.22 (2026-10-10)
 
 ## Changes
