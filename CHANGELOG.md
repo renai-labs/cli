@@ -1,3 +1,15 @@
+## v0.2.24 (2026-10-21)
+
+## Changes
+
+- fix(cli): point the out-of-credits warning at the billing page
+- fix(cli): skip the out-of-credits warning when a subscription serves the org
+
+
+Published to npm: https://www.npmjs.com/package/@renai-labs/cli/v/0.2.24
+
+---
+
 ## v0.2.23 (2026-10-10)
 
 ## Changes
